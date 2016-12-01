@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/action_up"
+        android:icon="@android:drawable/arrow_up_float"
+        app:showAsAction="always|withText"
+        android:title="向上"/>
+
+</menu>

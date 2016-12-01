@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Vui lòng mở WLAN!</string>
+    <string name="SUS_MSG_LATESTVERSION">Phiên bản hiện tại!</string>
+    <string name="SUS_MSG_NOTFOUND">Không có cập nhật!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Mạng không khả dụng!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Cập nhật hiện tại!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Tải xuống đã hoàn tất!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Không cập nhật được. Vui lòng thử lại!</string>    
+    <string name="SUS_SETTINGS_NEVERPROMPT">Không nhắc</string>
+	<string name="SUS_SETTINGS_NEWVERPROMPT">Nhắc khi tìm thấy phiên bản mới</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Không đủ dung lượng!</string>
+    <string name="SUS_VERSIONUPDATE">Tìm thấy phiên bản mới!</string>
+    <string name="SUS_UPDATEDESC">Mô tả:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Tên:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Kích cỡ:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">WLAN được đề nghị sử dụng để tải xuống!</string>
+    <string name="SUS_UPDATE">Cập nhật</string>
+    <string name="SUS_CANCEL">Sau</string>
+    <string name="SUS_DOWNLOAD_TITLE">Tải xuống SUS</string>
+    <string name="SUS_CANCELBUTTON">Hủy</string>
+    <string name="SUS_NOTIFICATION_TITLE">Nhắc</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Đang cập nhật... Vui lòng chờ!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Mạng hết giờ. Đang thử lại...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Tôi biết</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Hủy</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Cửa sổ này sẽ ẩn sau</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">giây)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Vui lòng chạm để cài đặt!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Vui lòng chạm để cài đặt: </string>
+</resources>

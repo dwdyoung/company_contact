@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_input_contact.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_input_contact.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tellme.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_tellme.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_group.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\fragment_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_fragment.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_fragment.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\message_dialog.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\message_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_input_conversation.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_input_conversation.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_extra.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\dialog_extra.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_activity_conversation.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\provider_detail_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\provider_detail_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_http.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_http.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_one.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_add_one.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_item_simple.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_bak_platform_item_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_welcome_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_welcome_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_import.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_import.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_contact.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_contact.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_input_conversation_audio.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_input_conversation_audio.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\CompanyContact\\indexableListView\\unspecified\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_introduce.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_introduce.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\file_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\file_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_contact_spinner.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_contact_spinner.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_platform_selector_dialog.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_provider_detail.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_provider_detail.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comingcall.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_comingcall.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_reply_item_audio.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_reply_item_audio.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_reply_item_text.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_reply_item_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_bak_at_list_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\activity_provider_parse.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\activity_provider_parse.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\provider_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\provider_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_wrong.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\dialog_wrong.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_audio_dialog.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\umeng_fb_audio_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\layout\\provider_checkable_item.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\layout\\provider_checkable_item.xml"
+    }
+]

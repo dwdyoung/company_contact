@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="?attr/actionBarSize"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="输入联系人所在列：" />
+
+        <EditText
+            android:id="@+id/tellme_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="输入联系人所在列"
+            android:inputType="textCapCharacters" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="输入电话所在列：" />
+
+        <EditText
+            android:id="@+id/tellme_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="输入电话所在列"
+            android:inputType="textCapCharacters" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/tellme_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@android:string/ok" />
+    
+	<HorizontalScrollView 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent">
+	    
+	    <ListView 
+	        android:id="@+id/tellme_list"
+	        android:layout_width="wrap_content"
+	        android:layout_height="match_parent"/>
+	    
+	</HorizontalScrollView>
+</LinearLayout>

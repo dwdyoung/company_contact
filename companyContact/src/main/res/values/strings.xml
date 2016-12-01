@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">公司通讯录</string>
+    <string name="search_label">搜索</string>
+    <string name="search_hint">输入供应商拼音或文字</string>
+    <string name="menu_search">搜索</string>
+
+</resources>

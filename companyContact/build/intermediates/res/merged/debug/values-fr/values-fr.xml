@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SUS_CANCEL">Plus tard</string>
+    <string name="SUS_CANCELBUTTON">Annuler</string>
+    <string name="SUS_DOWNLOAD_TITLE">Téléchargement SUS</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Téléchargement terminé</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Réseau non disponible</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Veuillez activer le réseau local sans fil</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Espace de stockage insuffisant</string>
+    <string name="SUS_MSG_LATESTVERSION">La version est actualisée</string>
+    <string name="SUS_MSG_NOTFOUND">Aucune mise à jour</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Echec de la mise à jour. Veuillez réessayer</string>
+    <string name="SUS_MSG_WARNING_PENDING">En cours de mise à jour</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Abandonner</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Cette fenêtre sera masquée dans</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">secondes)</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Je connais</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Appuyez pour installer : </string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Appuyez pour installer</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Délai d\'expiration réseau. Veuillez réessayer...</string>
+    <string name="SUS_NOTIFICATION_TITLE">Invite</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Mise à jour en cours... Veuillez patienter</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Ne pas envoyer d\'invite</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Envoyer une invite lorsqu\'une nouvelle version est détectée</string>
+    <string name="SUS_UPDATE">Mettre à jour</string>
+    <string name="SUS_UPDATEDESC">Description :</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Réseau local sans fil recommandé pour le téléchargement</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Nom :</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Taille :</string>
+    <string name="SUS_VERSIONUPDATE">Nouvelle version détectée</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+</resources>

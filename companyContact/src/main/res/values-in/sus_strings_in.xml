@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Harap buka WLAN!</string>
+    <string name="SUS_MSG_LATESTVERSION">Versi aktual!</string>
+    <string name="SUS_MSG_NOTFOUND">Tidak ada pembaruan!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Jaringan tidak tersedia!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Sedang memperbarui!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">Download selesai!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Pembaruan gagal! Harap coba lagi!</string>    
+    <string name="SUS_SETTINGS_NEVERPROMPT">Jangan minta</string>
+	<string name="SUS_SETTINGS_NEWVERPROMPT">Minta saat versi baru ditemukan</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Memori tidak mencukupi!</string>
+    <string name="SUS_VERSIONUPDATE">Ditemukan versi baru!</string>
+    <string name="SUS_UPDATEDESC">Deskripsi:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Nama:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Ukuran:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Sebaiknya download dengan WLAN!</string>
+    <string name="SUS_UPDATE">Pembaruan</string>
+    <string name="SUS_CANCEL">Nanti</string>
+    <string name="SUS_DOWNLOAD_TITLE">Men-download SUS</string>
+    <string name="SUS_CANCELBUTTON">Batal</string>
+    <string name="SUS_NOTIFICATION_TITLE">Perintah</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Memperbarui... Harap tunggu!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Waktu jaringan habis. Mencoba lagi...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Saya tahu</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Batal</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Jendela ini akan lenyap setelah</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">detik)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Harap ketuk untuk instal!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Harap ketuk untuk instal: </string>
+</resources>

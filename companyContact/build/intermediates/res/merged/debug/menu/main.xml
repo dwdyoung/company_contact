@@ -1,0 +1,55 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.monday.companycontact.MainActivity" >
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="搜索"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_add_menu"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="添加"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_file"
+                android:title="浏览本地Excel文件"/>
+            <item
+                android:id="@+id/action_http"
+                android:title="通过Http上传"/>
+            <item
+                android:id="@+id/action_single"
+                android:title="添加单个"/>
+        </menu>
+    </item>
+
+    <group
+        android:id="@+id/main_action_group"
+        android:menuCategory="container" >
+        <item
+            android:id="@+id/action_edit"
+            android:title="编辑"/>
+        <item
+            android:id="@+id/action_delete_all"
+            android:title="清空全部联系人"/>
+        <item
+            android:id="@+id/action_introduce"
+            android:title="查看使用介绍"/>
+        <item
+            android:id="@+id/action_import_contract"
+            android:title="导入到手机通讯录"/>
+        <item
+            android:id="@+id/action_share"
+            android:title="分享"/>
+        <item
+            android:id="@+id/action_feedback"
+            android:title="反馈"/>
+        <item
+            android:id="@+id/action_checkupdate"
+            android:title="检查最新版本"/>
+    </group>
+
+</menu>

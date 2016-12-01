@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\menu\\file.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\menu\\file.xml"
+    },
+    {
+        "merged": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\build\\intermediates\\res\\merged\\debug\\menu\\edit.xml",
+        "source": "E:\\Android\\studioProjects\\CompanyContact\\companyContact\\src\\main\\res\\menu\\edit.xml"
+    }
+]
